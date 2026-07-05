@@ -1,0 +1,14 @@
+{
+  "name": "universebotwhatsapp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.9",
+    "better-sqlite3": "^11.7.0",
+    "dotenv": "^16.4.7",
+    "youtube-dl-exec": "^3.0.10"
+  }
+}
+ 
